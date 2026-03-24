@@ -1,1 +1,0 @@
-document.getElementById("menu-toggle").addEventListener("click",function(){const e=document.getElementById("site-navigation"),t=this.getAttribute("aria-expanded")==="true";e.classList.toggle("toggled"),this.setAttribute("aria-expanded",!t)})
