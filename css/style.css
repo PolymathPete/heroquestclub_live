@@ -1,0 +1,183 @@
+body {
+	font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", Segoe UI Symbol, "Noto Color Emoji";
+	background: #110000 ;
+	color: #ccc ;
+}
+
+main {
+  /* min-h-screen */
+  min-height: 100vh;
+  max-width: 1200px;
+  margin: 0 auto; 
+
+  /* 1. Change solid color to semi-transparent (RGBA) */
+  /* This uses your #1a1a2e color at 85% opacity */
+  background-color: rgba(26, 26, 46, 0.95);
+
+  /* 2. Add a blur to make text pop against the image */
+  backdrop-filter: blur(1px);
+  -webkit-backdrop-filter: blur(1px); /* For Safari support */
+
+  /* 3. The "Anti-Harsh" Edge: A massive spread shadow */
+  /* This creates a 100px soft transition that looks like a glow/vignette */
+  box-shadow: 5px 5px 25px 5px #050510;
+
+  /* 4. Keep your existing padding */
+  padding: 6rem 2rem 4rem 2rem;
+
+}
+
+
+/* Target screens smaller than 768px (common mobile/tablet breakpoint) */
+@media screen and (max-width: 767px) {
+  main {
+    margin: 0 !important;
+    padding-left: 0 0.5rem; /* Optional: adds a tiny bit of "breathing room" so text doesn't touch the screen edge */
+    padding-right: 0 0.5rem; /* Optional: adds a tiny bit of "breathing room" so text doesn't touch the screen edge */
+  }
+}
+
+
+/* main {
+	max-width: 800px ;
+	margin: auto ;
+} */
+
+img {
+	max-width: 100% ;
+}
+
+header h1 {
+	text-align: center ;
+}
+
+footer {
+	text-align: center ;
+	clear: both ;
+}
+
+.hq-badge-link {
+    text-decoration: none !important;
+    /* Force the link to be a flex container */
+    display: inline-flex; 
+    /* This forces the badge inside to sit on the same horizontal line */
+    align-items: center; 
+    vertical-align: middle;
+}
+
+/* Shared Badge Style */
+.hq-badge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+
+    border: 1px solid transparent;
+	border-radius: 0.375rem;	
+    padding: 0.125rem 0.5rem;
+    font-size: 0.75rem;
+    font-weight: 600;   
+	gap: 0.125rem; 
+
+	transition: all 0.2s ease;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+/* STYLE A: SOLID (Core Game Style) */
+.hq-badge-solid {
+    background-color: var(--badge-color);
+    color: #1a1a2e; /* Hardcoded dark text for contrast on gold */
+    /* Creates a subtle border */
+    border-color: color-mix(in srgb, var(--text-color), transparent 60%);
+}
+
+.hq-badge-solid:hover {
+    filter: brightness(1.1);
+}
+
+/* STYLE B: TRANSPARENT (Expansion Style) */
+.hq-badge-transparent {
+    color: var(--text-color);
+    /* Creates the 20% opacity background */
+    background-color: color-mix(in srgb, var(--badge-color), transparent 85%);
+    /* Creates a subtle border */
+    border-color: color-mix(in srgb, var(--badge-color), transparent 60%);
+}	
+.hq-badge-transparent:hover {
+    /* Your original requested hover transparency */
+    background-color: color-mix(in srgb, var(--badge-color), transparent 60%);
+    border-color: var(--badge-color);
+    
+}
+ 
+.hq-badge-default {
+    /* Slate 500: The perfect neutral UI gray */
+    --badge-color: #64748b; 
+    
+    /* Ensure text color is readable against the gray if needed */
+    --text-color: #f1f5f9; 
+}
+
+.hq-badge-icon {
+    width: 0.75rem; 
+    height: 0.75rem;
+    /* margin-right: 0.25rem; */
+    /* stroke-width: 2.5; */
+	stroke: currentColor;
+	fill: none; /* Change to currentColor if you want stars/icons filled */
+}
+
+
+/* Target links specifically within your Markdown content */
+p a:not(.hq-badge-link) {
+  color: var(--accent-gold);
+  text-decoration: none;
+  font-weight: 600;
+  padding-bottom: 1px;
+  border-bottom: 1px solid rgba(212, 175, 55, 0.3); /* Subtle gold underline */
+  transition: all 0.3s ease;
+}
+
+p a:not(.hq-badge-link):hover {
+  color: var(--text-primary);
+  border-bottom-color: var(--accent-gold);
+  text-shadow: 0 0 8px rgba(212, 175, 55, 0.6); /* Magical glow effect */
+  background-color: rgba(212, 175, 55, 0.1); /* Very faint gold highlight */
+}
+
+/* Optional: Add a "Small Icon" after external links
+main a[href^="http"]::after {
+  content: " ↗";
+  font-size: 0.8em;
+  opacity: 0.6;
+} */
+
+
+
+
+
+
+/* For TAGLIST.HTML */
+.taglist {
+	text-align: center ;
+	clear: both ;
+}
+
+
+
+
+
+/* For NEXTPREV.HTML */
+/* #nextprev { */
+	/* The container for both the previous and next articles. */
+/* }  */
+#prevart {
+	float: left ;
+	text-align: left ;
+}
+#nextart {
+	float: right ;
+	text-align: right ;
+}
+#nextart,#prevart {
+	max-width: 33% ;
+}

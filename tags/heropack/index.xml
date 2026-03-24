@@ -1,0 +1,240 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>HeroQuest Club</title>
+	<link>http://localhost:1313/tags/heropack/</link>
+	<description>Recent content in Heropack on HeroQuest Club</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+    
+        <atom:link href="http://localhost:1313/tags/heropack/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>Explorer</title>
+		<link>http://localhost:1313/heroes/explorer/</link>
+		<pubDate>Sun, 21 Dec 2025 08:55:09 +0100</pubDate>
+		
+		<guid>http://localhost:1313/heroes/explorer/</guid>
+		<description>&lt;p&gt;lorer.&amp;quot;
+fla2k Dice = {{&amp;lt; para2d Dice = {{&amp;lt; para5y Points = {{&amp;lt; pa5d Points = {{&amp;lt;2 Red Dice
+Movment = {{&amp;lt; param HandaxeWeapon = {{&amp;lt; param wNoneg ArmoYou are the explorer.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; d &amp;gt;}}&lt;/strong&gt; &lt;em&gt;{{&amp;lt; param flavor &amp;gt;}}&lt;/em&gt;&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Berserker</title>
+		<link>http://localhost:1313/heroes/berserker/</link>
+		<pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate>
+		
+		<guid>http://localhost:1313/heroes/berserker/</guid>
+		<description>&lt;p&gt;Attack Dice = 3&lt;br&gt;
+Defend Dice = 2&lt;br&gt;
+Body Points = 7&lt;br&gt;
+Mind Points = 2&lt;/p&gt;
+&lt;p&gt;Movment = 2 Red Dice&lt;br&gt;
+Starting Weapon = Broadsword&lt;br&gt;
+Starting Armor = None&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;You are the berserker.&lt;/strong&gt; &lt;em&gt; &lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/berserker.png&#34; alt=&#34;berserker&#34;&gt;&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Autobiography</title>
+		<link>http://localhost:1313/autobiography/</link>
+		<pubDate>Mon, 15 Dec 2025 06:52:30 +0100</pubDate>
+		
+		<guid>http://localhost:1313/autobiography/</guid>
+		<description>&lt;p&gt;this is my bio&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>About Me</title>
+		<link>http://localhost:1313/about/</link>
+		<pubDate>Thu, 11 Dec 2025 15:51:03 +0100</pubDate>
+		
+		<guid>http://localhost:1313/about/</guid>
+		<description>&lt;p&gt;here is some content&lt;/p&gt;
+&lt;p&gt;where am I ?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;List imte&lt;/li&gt;
+&lt;li&gt;asdsad&lt;/li&gt;
+&lt;li&gt;asd as d&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Monk</title>
+		<link>http://localhost:1313/heroes/monk/</link>
+		<pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+		
+		<guid>http://localhost:1313/heroes/monk/</guid>
+		<description>&lt;p&gt;rds, and staffs1*= {{&amp;lt; param attac3= {{&amp;lt; param defen6s = {{&amp;lt; param bod4s = {{&amp;lt; param 2 Red Dicet = {{&amp;lt; param move &amp;gt;}*When attacking unarmed, roll one additional Attack die.= {{&amp;lt; param weapon &amp;gt;None = {{&amp;lt;You are the Monk, para student of unarmed combat techniques formed in reverence of the elements. You refuse to use armor or shields, instead relying on your heightened grace and agility. You may only wield daggers, crossbows, handaxes, shortswords, and staffs. &lt;em&gt;{{&amp;lt; param flavor &amp;gt;}}&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Soaring Dragon / Eye of the Storm&lt;br&gt;
+Twisting Torrent / Tidal Surge&lt;br&gt;
+Speak with Stone / Strength of Mountain&lt;br&gt;
+Burning Spirit / Touc&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Rogue</title>
+		<link>http://localhost:1313/heroes/rogue/</link>
+		<pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
+		
+		<guid>http://localhost:1313/heroes/rogue/</guid>
+		<description>&lt;p&gt;for danger.&amp;quot;
++1&amp;lt; param attack &amp;gt;}2&amp;lt; param defend &amp;gt;}5{{&amp;lt; param body &amp;gt;}4{{&amp;lt; param mind2 Red Dice{{&amp;lt; param move &amp;gt;}}&lt;br&gt;
+Dagger&amp;lt; param weapon &amp;gt;}}  None{&amp;lt; parYou are the Rogue,am fa nimble skirmisher who is deadly with small blades, but you lack the ability to use metal armor and shields. Equiped with your trusty bandolier, you are always prepared for danger.&amp;lt; param flavor &amp;gt;}}*&lt;/p&gt;
+&lt;p&gt;Ambidesxtrous&lt;br&gt;
+Combat Mobility&lt;br&gt;
+Opportunistic Striker&lt;br&gt;
+Da&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Knight</title>
+		<link>http://localhost:1313/heroes/knight/</link>
+		<pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
+		
+		<guid>http://localhost:1313/heroes/knight/</guid>
+		<description>&lt;p&gt;Attack Dice = 2&lt;br&gt;
+Defend Dice = 3&lt;br&gt;
+Body Points = 7&lt;br&gt;
+Mind Points = 2&lt;/p&gt;
+&lt;p&gt;Movment = 2 Red Dice&lt;br&gt;
+Starting Weapon = Shortsword &lt;br&gt;
+Starting Armor = Shield&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;You are the Knight.&lt;/strong&gt; &lt;em&gt;A well-trained armored fighter always ready to stand between allies and danger. Armor does not restrict your movement speed.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Knight&amp;rsquo;s Challenge&lt;br&gt;
+Shield Block&lt;br&gt;
+Stalwart&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Bard</title>
+		<link>http://localhost:1313/heroes/bard/</link>
+		<pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
+		
+		<guid>http://localhost:1313/heroes/bard/</guid>
+		<description>&lt;p&gt;Attack Dice = 2&lt;br&gt;
+Defend Dice = 2&lt;br&gt;
+Body Points = 5&lt;br&gt;
+Mind Points = 4&lt;/p&gt;
+&lt;p&gt;Movment = 2 Red Dice&lt;br&gt;
+Starting Weapon = Rapier&lt;br&gt;
+Starting Armor = None&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;You are the bard.&lt;/strong&gt; &lt;em&gt;Your spirit and songs inspire and invigorate your alies. You prefer to stay light on your feetso when you are wearing non-metal armor and not carrying a shield you have 1 extra Defend die.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Healing Song
+Inspiring Tale
+Lullaby&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Druid</title>
+		<link>http://localhost:1313/heroes/druid/</link>
+		<pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
+		
+		<guid>http://localhost:1313/heroes/druid/</guid>
+		<description>&lt;p&gt;druid hero may 1.&amp;quot;
++++&lt;/p&gt;
+&lt;p&gt;Attack Di2k &amp;gt;}}&lt;br&gt;
+Defend Di6end &amp;gt;}}&lt;br&gt;
+Body Po4ody &amp;gt;}}&lt;br&gt;
+Mind2 Red Dicem mind &amp;gt;}}&lt;/p&gt;
+&lt;p&gt;MovmentDagger}&lt;br&gt;
+Starting Weapon None&amp;gt;}}&lt;br&gt;
+You are the druid,m ara woodland guardian and healer. You are a powerful physical combatant while using your shapeshift spell, but you can be weak when your resources are depleted. A druid hero may not wear metal armor.am flavor_bold &amp;gt;}}** *{{&amp;lt; param fla&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Warlock</title>
+		<link>http://localhost:1313/heroes/warlock/</link>
+		<pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
+		
+		<guid>http://localhost:1313/heroes/warlock/</guid>
+		<description>&lt;p&gt;Attack Dice = 2&lt;br&gt;
+Defend Dice = 2&lt;br&gt;
+Body Points = 4&lt;br&gt;
+Mind Points = 5&lt;/p&gt;
+&lt;p&gt;Movment = 2 Red Dice&lt;br&gt;
+Starting Weapon = Wand&lt;br&gt;
+Starting Armor = None&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;You are the warlock,&lt;/strong&gt; &lt;em&gt;a magical artillerist who has bonded with a sinister creature, allowing you to assume its winged form. Let your allies protect you while you deal damage from afar. Counts as a wizard hero in termso of which weapons, artifacts, and equipment they can use.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Dark Wings&lt;br&gt;
+Demon Form&lt;br&gt;
+Fear&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Barbarian</title>
+		<link>http://localhost:1313/heroes/barbarian/</link>
+		<pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+		
+		<guid>http://localhost:1313/heroes/barbarian/</guid>
+		<description>&lt;p&gt;Attack Dice = 3&lt;br&gt;
+Defend Dice = 2&lt;br&gt;
+Body Points = 8&lt;br&gt;
+Mind Points = 2&lt;/p&gt;
+&lt;p&gt;Movment = 2 Red Dice&lt;br&gt;
+Starting Weapon = Broadsword&lt;br&gt;
+Starting Armor = None&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;You are the barbarian,&lt;/strong&gt; &lt;em&gt;the greatest warrior of all. But beware of magic for your sword is no defense against it.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/HeroQuest-Barbarian.webp&#34; alt=&#34;barbarian&#34;&gt;&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Dwarf</title>
+		<link>http://localhost:1313/heroes/dwarf/</link>
+		<pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+		
+		<guid>http://localhost:1313/heroes/dwarf/</guid>
+		<description>&lt;p&gt;you must avoid 2ld on a combat di2 = {{&amp;lt; param atta7ce = {{&amp;lt; param de3ints = {{&amp;lt; par2 Red Dice Points = {{&amp;lt; param mShoersword {{&amp;lt; param move &amp;gt;}} None {{&amp;lt; pYou are the dwarf.g ArYou are a good warrior and have the unique ability to disarm traps without a tool kit. To do so, you must avoid rolling a black shield on a combat die.r&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Elf</title>
+		<link>http://localhost:1313/heroes/elf/</link>
+		<pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+		
+		<guid>http://localhost:1313/heroes/elf/</guid>
+		<description>&lt;p&gt;Attack Dice = 2&lt;br&gt;
+Defend Dice = 2&lt;br&gt;
+Body Points = 6&lt;br&gt;
+Mind Points = 4&lt;/p&gt;
+&lt;p&gt;Movment = 2 Red Dice&lt;br&gt;
+Starting Weapon = Shortsword&lt;br&gt;
+Starting Armor = None&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;You are the elf,&lt;/strong&gt; &lt;em&gt;a master of both magic and the sword. You must use both well if you are to triumph. You have the power to cast three magical spells, all relating to one element.&lt;/em&gt;&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Wizard</title>
+		<link>http://localhost:1313/heroes/wizard/</link>
+		<pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+		
+		<guid>http://localhost:1313/heroes/wizard/</guid>
+		<description>&lt;p&gt;Attack Dice = 1&lt;br&gt;
+Defend Dice = 2&lt;br&gt;
+Body Points = 4&lt;br&gt;
+Mind Points = 6&lt;/p&gt;
+&lt;p&gt;Movment = 2 Red Dice&lt;br&gt;
+Starting Weapon = Dagger&lt;br&gt;
+Starting Armor = None&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;You are the wizard.&lt;/strong&gt; &lt;em&gt;You have the ability to cast many different spells. However, you cannot wear armor or use large weapons. Therfore, you must cast your spells wisely and avoid physical combat where you are weak.&lt;/em&gt;&lt;/p&gt;
+</description>
+	</item>
+	
+	</channel>
+</rss>

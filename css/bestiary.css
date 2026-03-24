@@ -1,0 +1,137 @@
+:root {
+  --bg-dark: #0d0d1a;
+  --bg-stat: #1a1a2e;
+  --border-purple: rgba(74, 25, 66, 0.5);
+  --border-purple-hover: #4a1942;
+  --text-main: #f5e6d3;
+  --text-dim: rgba(245, 230, 211, 0.4);
+  --gold: #d4af37;
+}
+
+.monster-card {
+  background-color: var(--bg-dark);
+  border: 1px solid var(--border-purple);
+  border-radius: 0.75rem;
+  overflow: hidden;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+
+.monster-card:hover {
+  border-color: var(--border-purple-hover);
+}
+
+.card-content {
+  padding: 1.25rem;
+  cursor: pointer;
+}
+
+/* Header Layout */
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 0.75rem;
+}
+
+.header-left, .header-right, .title-row {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.title-row {
+  gap: 0.5rem;
+}
+
+/* Icons & Badges */
+.icon-wrapper {
+  padding: 0.5rem;
+  background-color: rgba(74, 25, 66, 0.3);
+  border-radius: 0.5rem;
+}
+
+.badge {
+  display: inline-flex;
+  padding: 0.125rem 0.625rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+  border-radius: 0.375rem;
+}
+
+.badge-gold {
+  background-color: rgba(212, 175, 55, 0.2);
+  color: var(--gold);
+}
+
+.badge-green {
+  background-color: rgba(34, 197, 94, 0.2);
+  color: #4ade80;
+}
+
+/* Stats Grid */
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 0.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.stat-box {
+  background-color: var(--bg-stat);
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  text-align: center;
+}
+.stat-label {
+  font-size: 0.75rem; /* text-xs */
+  color: var(--text-main);
+  opacity: 0.4;       /* The /40 equivalent */
+  text-transform: uppercase; /* Optional: standard for labels like 'MP' */
+  margin: 0;
+}
+
+.stat-value {
+  font-size: 1.125rem;
+  font-weight: 700;    
+  color: var(--text-main);
+  margin: 0;           
+}
+
+/* Typography */
+.monster-name {
+  font-size: 1.125rem;
+  font-weight: 700;
+  color: var(--text-main);
+  margin: 0;
+}
+
+.source-text {
+  font-size: 0.75rem;
+  color: var(--text-dim);
+  margin: 0;
+}
+
+.description {
+  font-size: 0.875rem;
+  color: rgba(245, 230, 211, 0.6);
+  line-height: 1.25rem;
+  /* Line clamp effect */
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* Utility Icon Colors */
+.icon-yellow { color:#facc15 }
+.icon-red { color: #f87171; }
+.icon-blue { color: #60a5fa; }
+.icon-pink { color: #f472b6; }
+.icon-purple { color:#c084fc }
+.icon-small { 
+    width: 1rem; 
+    height: 1rem; 
+    display: block; /* Necessary for margin: auto to work on SVGs */
+    margin: 0 auto 0.25rem; /* top, left/right, bottom */ 
+}
